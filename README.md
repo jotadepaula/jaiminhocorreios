@@ -2,4 +2,4 @@
   ## Sobre o Projeto
   ## Tecnologias
   ## Integrações
-  ## Changlog
+  ## Changelog
