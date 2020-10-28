@@ -82,7 +82,7 @@ Jaiminho nasceu da necessidade de quem faz compras onlie e precisa consultar o s
 ## O que vem por aí
 
 Veja as [issues abertas](https://github.com/jotadepaula/jaiminhocorreios/issues) para ver a lista de correcoes e novidades. Próximas versões: 
-* Notificacao para quando sua encomenda mudar de status
+* Notificação para quando sua encomenda mudar de status
 * Suporte a outras transportadoras
 * Possível suporte ao whatsapp 
 
@@ -111,7 +111,7 @@ Jota de Paula - [@jotadepaula](https://twitter.com/jotadepaula) - jhoterdan@gmai
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/jotadepaula/jaiminhocorreios.svg?style=flat-square
 [contributors-url]: https://github.com/jotadepaula/jaiminhocorreios/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/jotadepaula/jaiminhocorreios.svg?style=flat-square
 [forks-url]: https://github.com/jotadepaula/jaiminhocorreios/network/members
