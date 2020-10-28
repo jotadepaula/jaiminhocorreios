@@ -22,6 +22,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Telegram][telegram-shield]][telegram-url]
+[![Messenger][messenger-shield]][messenger-url]
 
 
 
@@ -111,7 +113,7 @@ Jota de Paula - [@jotadepaula](https://twitter.com/jotadepaula) - jhoterdan@gmai
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jotadepaula/jaiminhocorreios.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
 [contributors-url]: https://github.com/jotadepaula/jaiminhocorreios/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/jotadepaula/jaiminhocorreios.svg?style=flat-square
 [forks-url]: https://github.com/jotadepaula/jaiminhocorreios/network/members
@@ -124,3 +126,10 @@ Jota de Paula - [@jotadepaula](https://twitter.com/jotadepaula) - jhoterdan@gmai
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jhoterdan/
 [product-screenshot]: images/screenshot.png
+
+
+[telegram-shield]: https://img.shields.io/badge/-Telegram-black.svg?style=flat-square&logo=telegram&colorB=555
+[telegram-url]: https://t.me/BuscaCorreiosBot
+
+[messenger-shield]: https://img.shields.io/badge/-Messenger-black.svg?style=flat-square&logo=messenger&colorB=555
+[messenger-url]: https://www.facebook.com/jaiminhoCorreiosBot
