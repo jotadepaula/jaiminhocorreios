@@ -79,6 +79,17 @@ Jaiminho nasceu da necessidade de quem faz compras onlie e precisa consultar o s
 * [NodeJS](https://jquery.com)
 * [Express](https://expressjs.com)
 
+<!-- Changelog -->
+## Changelog
+### 29/12/2020
+* Melhoria no fluxo de conversa
+* Correção de um bug que gerava loop na conversa (somente telegram) 
+* Melhoria no tempo das respostas
+* Nova opção para consultar status da ultima encomenda
+* Nova maneira de "pular" o fluxo, apenas digitando diretamente o código de rastreio na primeira mensagem
+* Nova tela de boas vindas
+* Implementado limite de tempo de inatividade. Após 10 minutos sem responder uma mensagem, a conversa é encerrada. 
+
 
 <!-- ROADMAP -->
 ## O que vem por aí
